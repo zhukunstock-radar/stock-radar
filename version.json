@@ -1,9 +1,11 @@
 {
-    "sha256": "b650ab2350e49ea831d0d8676a6b9647169d50f95c1e5ada239fe3bb62e6c82f",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.5/StockRadar_1.0.5_win64.zip",
-    "version": "1.0.5",
-    "size": 47470765,
+    "sha256": "626c0c5598b700be62c4e74c7d3b289bf492ef6e64b5862fa59a525ef4f6812f",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.6/StockRadar_1.0.6_win64.zip",
+    "version": "1.0.6",
+    "size": 47469721,
     "notes": [
-        "授权弹窗内嵌购买界面：点「在线购买」无需打开浏览器，弹窗内直接下单显示收款码，扫码付款后激活码自动填入并激活。另有兜底链接可随时切回浏览器购买页。"
+        "授权弹窗新增月付/年付档位切换：月付 29.9 元，年付 188 元（折合约 15.7 元/月，一年省 170.8 元）",
+        "授权弹窗精简：移除下方直接扫码栏与手动激活输入框，在线购买→付款→自动激活一键闭环",
+        "订单提醒服务上线：用户点「我已付款」后，卖家微信实时收到待确认订单提醒"
     ]
 }
