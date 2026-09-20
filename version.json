@@ -1,13 +1,14 @@
 {
-    "sha256":  "be0dd325d1a4c0b3a18212917740ce05a75e0b800db3d40333cc3954a3dc7e47",
-    "url":  "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.1/StockRadar_1.0.1_win64_r2.zip",
-    "version":  "1.0.1",
-    "size":  47223785,
-    "notes":  [
-                  "v1.0.1 更新说明",
-                  "1. 界面重新排版：顶栏双行布局，更协调美观",
-                  "2. 新增一键自动更新：点击「立即更新」自动下载并重启",
-                  "3. 新增在线购买入口（授权弹窗）",
-                  "4. 修复若干体验细节"
-              ]
+    "sha256": "22406c186327b955c14455cc0b846d17cb85bc2b433dd5a6913cd6fe49bee71d",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.2/StockRadar_1.0.2_win64.zip",
+    "version": "1.0.2",
+    "size": 47230595,
+    "notes": [
+        "v1.0.2 更新说明",
+        "1. 新装机器自动回填历史日K（约2-3分钟），板块/个股/底部异动、ST、触底反弹自动补齐",
+        "2. 分时图增加新浪分钟线兜底，任何机器打开个股页即可查看分时",
+        "3. 龙虎榜本地无记录时自动补抓历史上榜数据",
+        "4. 修复重复启动误报启动失败",
+        "5. 其他体验优化"
+    ]
 }
