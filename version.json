@@ -1,8 +1,8 @@
 {
-    "sha256":  "8776656e44a455b0e561656fae8231380d5c32ffc0176db7839aec636dbf242d",
+    "sha256":  "be0dd325d1a4c0b3a18212917740ce05a75e0b800db3d40333cc3954a3dc7e47",
     "url":  "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.1/StockRadar_1.0.1_win64.zip",
     "version":  "1.0.1",
-    "size":  47223365,
+    "size":  47223785,
     "notes":  [
                   "v1.0.1 更新说明",
                   "1. 界面重新排版：顶栏双行布局，更协调美观",
