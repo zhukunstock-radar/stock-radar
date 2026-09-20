@@ -1,9 +1,9 @@
 {
-    "sha256": "35c973559919160cea47394d3c2fc1302083a51afe9e4058ae2a4dc7d2a873f6",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.4/StockRadar_1.0.4_win64.zip",
-    "version": "1.0.4",
-    "size": 47326220,
+    "sha256": "b650ab2350e49ea831d0d8676a6b9647169d50f95c1e5ada239fe3bb62e6c82f",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.5/StockRadar_1.0.5_win64.zip",
+    "version": "1.0.5",
+    "size": 47470765,
     "notes": [
-        "v1.0.4 更新说明"
+        "授权弹窗内嵌购买界面：点「在线购买」无需打开浏览器，弹窗内直接下单显示收款码，扫码付款后激活码自动填入并激活。另有兜底链接可随时切回浏览器购买页。"
     ]
 }
