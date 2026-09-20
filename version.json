@@ -1,14 +1,11 @@
 {
-    "sha256": "22406c186327b955c14455cc0b846d17cb85bc2b433dd5a6913cd6fe49bee71d",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.2/StockRadar_1.0.2_win64.zip",
-    "version": "1.0.2",
-    "size": 47230595,
+    "sha256": "05f5b0e2fe5dda16e2a1527ac986e0640beb4c734609e13ce64521f515471f41",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.3/StockRadar_1.0.3_win64.zip",
+    "version": "1.0.3",
+    "size": 47326451,
     "notes": [
-        "v1.0.2 更新说明",
-        "1. 新装机器自动回填历史日K（约2-3分钟），板块/个股/底部异动、ST、触底反弹自动补齐",
-        "2. 分时图增加新浪分钟线兜底，任何机器打开个股页即可查看分时",
-        "3. 龙虎榜本地无记录时自动补抓历史上榜数据",
-        "4. 修复重复启动误报启动失败",
-        "5. 其他体验优化"
+        "v1.0.3 更新说明",
+        "1. 修复新装机器授权弹窗无法显示收款二维码的问题（收款码已内置随包分发）",
+        "2. 卖家仍可在安装目录 data\\\\receipt_qr.png 自行替换收款码，无需重新发布"
     ]
 }
