@@ -1,9 +1,9 @@
 {
-    "sha256": "71a6cae0a4123037dc10aacb02ad39d397d2d386ffffd1e5a4a10063c57f83fc",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.8/StockRadar_1.0.8_win64.zip",
-    "version": "1.0.8",
-    "size": 48509742,
+    "sha256": "bd000ba0597dda2b8416c881d58c9fa5a85a789896a86ec3283249577f3821d1",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.9/StockRadar_1.0.9_win64.zip",
+    "version": "1.0.9",
+    "size": 48510623,
     "notes": [
-        "v1.0.8\n- 全市场行情读取/刷新优化：WS 增量推送（帧体积约减半）、列表接口精简字段、快照缓存+ETag\n- 全市场扫描间隔加速至 30 秒，行情与异动刷新更快\n- 新股/次新股监控修复：数据源封禁自动回退 + 本地库兜底，面板不因封禁空白\n- 首启种子库：新装机器免 40 分钟历史 K 线在线回填"
+        "v1.0.9\n- 修复自动更新机制：onedir 运行时覆盖方式错误（新 exe 配旧运行时）导致更新成功后无法启动/未生效\n- 升级改用 robocopy 正确合并 + 替换前备份/失败完整回滚 + 完整性校验，更新更可靠"
     ]
 }
