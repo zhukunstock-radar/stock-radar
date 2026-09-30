@@ -1,12 +1,14 @@
 {
-    "sha256": "211b163990a08bb6c5d62dcc404e3a51f5562544269d4be979e81bf39cd45685",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.1.0/StockRadar_1.1.0_win64.zip",
-    "version": "1.1.0",
-    "size": 50960644,
+    "sha256": "78d50b732e62df36b493c277b13e75dd6e2f68e13f6c77aec136517f5a39e5bf",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.1.1/StockRadar_1.1.1_win64.zip",
+    "version": "1.1.1",
+    "size": 50961465,
     "notes": [
-        "v1.1.0 更新",
-        "月付价格下调至 19.9 元/月（年付 188 元/年不变，月付升级年费差价 168.1 元）",
-        "游资榜修复：补全每日上榜数据，新增万豪世家/北京知春路/西安西大街/武汉紫阳东路/深圳益田路等席位识别，移除东方财富拉萨天团",
-        "分享卡与导出保存体验优化"
+        "v1.1.1 修复数据刷新问题",
+        "修复 AI 收盘复盘/盘前早报生成失败（sqlite3.Row 赋值 TypeError）",
+        "修复每日数据归档 too many SQL variables",
+        "修复新装机种子库缺失（只导日K → 全表导入），游资榜/板块热度首启即就绪",
+        "修复晚间席位补抓被 20:00 门放弃，游资榜整夜空缺的问题",
+        "种子库新增服务器兜底下载地址"
     ]
 }
