@@ -1,14 +1,14 @@
 {
-    "sha256": "78d50b732e62df36b493c277b13e75dd6e2f68e13f6c77aec136517f5a39e5bf",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.1.1/StockRadar_1.1.1_win64.zip",
-    "version": "1.1.1",
-    "size": 50961465,
+    "sha256": "328192f68c4a486728ba8438808357659a1893a791b5f2cfafb9e755733424ea",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.1.2/StockRadar_1.1.2_win64.zip",
+    "version": "1.1.2",
+    "size": 50961664,
     "notes": [
-        "v1.1.1 修复数据刷新问题",
+        "v1.1.2 修复数据刷新问题",
         "修复 AI 收盘复盘/盘前早报生成失败（sqlite3.Row 赋值 TypeError）",
         "修复每日数据归档 too many SQL variables",
         "修复新装机种子库缺失（只导日K → 全表导入），游资榜/板块热度首启即就绪",
-        "修复晚间席位补抓被 20:00 门放弃，游资榜整夜空缺的问题",
-        "种子库新增服务器兜底下载地址"
+        "修复晚间席位补抓被 20:00 门放弃，游资榜整夜空缺",
+        "修复数据库连接跨线程并发导致游资榜/板块热度/盘前早报等接口间歇性刷新失败（sqlite3.InterfaceError）"
     ]
 }
