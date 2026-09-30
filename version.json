@@ -1,9 +1,12 @@
 {
-    "sha256": "bd000ba0597dda2b8416c881d58c9fa5a85a789896a86ec3283249577f3821d1",
-    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.0.9/StockRadar_1.0.9_win64.zip",
-    "version": "1.0.9",
-    "size": 48510623,
+    "sha256": "211b163990a08bb6c5d62dcc404e3a51f5562544269d4be979e81bf39cd45685",
+    "url": "https://gitee.com/stock-radar/stock-radar/releases/download/v1.1.0/StockRadar_1.1.0_win64.zip",
+    "version": "1.1.0",
+    "size": 50960644,
     "notes": [
-        "v1.0.9\n- 修复自动更新机制：onedir 运行时覆盖方式错误（新 exe 配旧运行时）导致更新成功后无法启动/未生效\n- 升级改用 robocopy 正确合并 + 替换前备份/失败完整回滚 + 完整性校验，更新更可靠"
+        "v1.1.0 更新",
+        "月付价格下调至 19.9 元/月（年付 188 元/年不变，月付升级年费差价 168.1 元）",
+        "游资榜修复：补全每日上榜数据，新增万豪世家/北京知春路/西安西大街/武汉紫阳东路/深圳益田路等席位识别，移除东方财富拉萨天团",
+        "分享卡与导出保存体验优化"
     ]
 }
